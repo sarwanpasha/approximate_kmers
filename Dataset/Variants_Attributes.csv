@@ -1,0 +1,911 @@
+Sequence name	Lineage	Conflict	Ambiguity score	Scorpio call	Scorpio support	Scorpio conflict	Note	pangolin version	pangoLEARN version
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.5	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.0435	scorpio call: Alt alleles 20; Ref alleles 1; Amb alleles 1; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.221						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	0.999677107	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.221	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8261	0.087	scorpio call: Alt alleles 19; Ref alleles 2; Amb alleles 1; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.160	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.243	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.5	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.582	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.81	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.575	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.76	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.160.14	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.600	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.160	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	0.999677107					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	0.999677107					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.160	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.31	0	0.987912447					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.69	0	0.999354005					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.69	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.277	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.519	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.416.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.351	0	1	Beta (B.1.351-like)	0.8571	0	scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	0.999354005					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.28	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.53	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.258	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.53	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.53	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.7	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.0435	scorpio call: Alt alleles 20; Ref alleles 1; Amb alleles 1; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	0.998059508					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.575.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.525	0	1	Eta (B.1.525-like)	1	0	scorpio call: Alt alleles 16; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.0435	scorpio call: Alt alleles 20; Ref alleles 1; Amb alleles 1; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.0435	scorpio call: Alt alleles 20; Ref alleles 1; Amb alleles 0; Oth alleles 2	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.10	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.258	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.10	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.10	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.3	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.408	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	0.998707175	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	0.998707175	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.575.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.406						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.351	0	1	Beta (B.1.351-like)	0.9286	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.351	0	1	Beta (B.1.351-like)	0.8571	0	scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.351	0	1	Beta (B.1.351-like)	0.8571	0	scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.375	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.351	0	1	Beta (B.1.351-like)	0.8571	0	scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.351	0	1	Beta (B.1.351-like)	0.8571	0	scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.416	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.60	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.28	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.525	0	1	Eta (B.1.525-like)	1	0	scorpio call: Alt alleles 16; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621	0	1	Mu (B.1.621-like)	0.963	0.037	scorpio call: Alt alleles 26; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.0435	scorpio call: Alt alleles 20; Ref alleles 1; Amb alleles 1; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.27	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621	0	1	Mu (B.1.621-like)	0.963	0.037	scorpio call: Alt alleles 26; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621.1	0	1	Mu (B.1.621-like)	1	0	scorpio call: Alt alleles 27; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.0435	scorpio call: Alt alleles 20; Ref alleles 1; Amb alleles 1; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621	0	1	Mu (B.1.621-like)	0.963	0.037	scorpio call: Alt alleles 26; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621.1	0	1	Mu (B.1.621-like)	0.963	0.037	scorpio call: Alt alleles 26; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.157	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.157	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.5	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.11	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	0.999354005					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.5	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.5	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.5	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.400	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.234	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.542	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.356	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.1304	scorpio call: Alt alleles 20; Ref alleles 3; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.0435	scorpio call: Alt alleles 20; Ref alleles 1; Amb alleles 1; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	P.1	0	1	Gamma (P.1-like)	0.875	0	scorpio call: Alt alleles 14; Ref alleles 0; Amb alleles 0; Oth alleles 2	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.37	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.53	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.420	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.43	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.43	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8261	0.087	scorpio call: Alt alleles 19; Ref alleles 2; Amb alleles 1; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621	0	1	Mu (B.1.621-like)	0.963	0.037	scorpio call: Alt alleles 26; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177.32	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621.1	0	1	Mu (B.1.621-like)	0.963	0.037	scorpio call: Alt alleles 26; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621.1	0	1	Mu (B.1.621-like)	0.963	0.037	scorpio call: Alt alleles 26; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.182	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.182	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.182	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.182	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.182	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.182	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.182	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.182	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.28	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.380	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.621	0	1	Mu (B.1.621-like)	0.963	0.037	scorpio call: Alt alleles 26; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.7692	0.1538	scorpio call: Alt alleles 10; Ref alleles 2; Amb alleles 0; Oth alleles 1; scorpio replaced lineage assignment B.1.1.7	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.416.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.177	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 1; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.6.3	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	0.996111471					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	0.996111471					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.25						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.63	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.63	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.504	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.362						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.360						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.314	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.320						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.439	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.203	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.595	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.4.4	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.119						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.464	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.314						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.464	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.10	0	0.998707175					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.319						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.37	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.2						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.320						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.61	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.320						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.128	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.4	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.464	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	P.2	0	1	Zeta (P.2-like)	0.8571	0.1429	scorpio call: Alt alleles 6; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.33	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.151	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.161	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.306	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.306	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.326	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.326	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.326	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.369	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429	0	1	Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429	0	1	Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.427	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.369	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.192	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.369	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.596	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429	0	1	Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	P.7						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.243	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.349						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.110.3	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429	0	1	Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.427	0	0.996111471					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.222	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.192	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.192						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.128						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.222	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.427	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.519						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429	0	1	Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.561	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.110.3	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.368	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.519	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.427	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.587						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429	0	1	Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.609	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.427	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.427	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.222	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.243	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.453	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.305	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.349						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.243	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429			Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	0.996111471					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429	0	1	Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.561	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.162	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.464						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.13						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.162						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.351	0	1	Beta (B.1.351-like)	0.8571	0	scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.4.6						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.8696	0.087	scorpio call: Alt alleles 20; Ref alleles 2; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.37	0	1	Lambda (C.37-like)	0.9474	0	scorpio call: Alt alleles 18; Ref alleles 0; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.205						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.4						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.5						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.25	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.348	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.348	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.348	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.525	0	1	Eta (B.1.525-like)	1	0	scorpio call: Alt alleles 16; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.320	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.320	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.464	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.429	0	1	Epsilon (B.1.427/429-like)	1	0	scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.526	0	1	Iota (B.1.526-like)	0.8261	0.1739	scorpio call: Alt alleles 19; Ref alleles 4; Amb alleles 0; Oth alleles 0; scorpio replaced lineage assignment B.1.351	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.110.3	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.9565	0.0435	scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.0435	scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.110.3	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	A.1						Assigned from designation hash.	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.13	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.7	0	1	Alpha (B.1.1.7-like)	0.913	0.087	scorpio call: Alt alleles 21; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.243	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.427	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.348	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.2	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.35	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0; scorpio replaced lineage assignment AY.4	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0; scorpio replaced lineage assignment AY.4	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.26	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.24	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.26	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.20	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0; scorpio replaced lineage assignment AY.4	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.26	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0; scorpio replaced lineage assignment P.1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.37	0	1	Lambda (C.37-like)	0.9474	0	scorpio call: Alt alleles 18; Ref alleles 0; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.37	0	1	Lambda (C.37-like)	0.9474	0	scorpio call: Alt alleles 18; Ref alleles 0; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.348	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.348	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.37	0	1	Lambda (C.37-like)	0.9474	0	scorpio call: Alt alleles 18; Ref alleles 0; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.37	0	1	Lambda (C.37-like)	0.8947	0.1053	scorpio call: Alt alleles 17; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.37	0	1	Lambda (C.37-like)	0.9474	0.0526	scorpio call: Alt alleles 18; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.37	0	1	Lambda (C.37-like)	0.9474	0	scorpio call: Alt alleles 18; Ref alleles 0; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	C.37	0	1	Lambda (C.37-like)	0.9474	0	scorpio call: Alt alleles 18; Ref alleles 0; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.37	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.1.348	0	1					v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0; scorpio replaced lineage assignment AY.4	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0	scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 1	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.24	0	1	Delta (B.1.617.2-like)	0.8462	0.1538	scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.25	0	1	Delta (B.1.617.2-like)	0.9231	0.0769	scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	AY.3	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
+"ENA|MN908947|MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome."	B.1.617.2	0	1	Delta (B.1.617.2-like)	1	0	scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0	v3.1.14	10/13/2021
